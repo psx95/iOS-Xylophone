@@ -1,4 +1,7 @@
 
+# iOS-Xylophone
+Sample App showing how to play sounds in iOS. Created as a project during iOS 12 &amp; Swift 4 course on Udemy.com
+
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 #  Xylophone
@@ -25,3 +28,4 @@ You will be making your first musical instrument! Musical apps are so popular on
 >This is a companion project to The App Brewery's Complete App Developement Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
 ![End Banner](Documentation/readme-end-banner.png)
+
